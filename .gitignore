@@ -1,0 +1,4 @@
+# Données nettoyées : régénérées par pipeline_baac.py (usagers.csv dépasse 100 Mo)
+sortie_baac/donnees_propres/
+__pycache__/
+.DS_Store
